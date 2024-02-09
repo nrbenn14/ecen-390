@@ -1,0 +1,13 @@
+J:/ecen-old/ecen390/cmake-build-debug/CMakeFiles/BOOT.bin.dir
+J:/ecen-old/ecen390/cmake-build-debug/CMakeFiles/run.dir
+J:/ecen-old/ecen390/cmake-build-debug/CMakeFiles/edit_cache.dir
+J:/ecen-old/ecen390/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+J:/ecen-old/ecen390/cmake-build-debug/lasertag/CMakeFiles/lasertag.elf.dir
+J:/ecen-old/ecen390/cmake-build-debug/lasertag/CMakeFiles/edit_cache.dir
+J:/ecen-old/ecen390/cmake-build-debug/lasertag/CMakeFiles/rebuild_cache.dir
+J:/ecen-old/ecen390/cmake-build-debug/lasertag/sound/CMakeFiles/sound.dir
+J:/ecen-old/ecen390/cmake-build-debug/lasertag/sound/CMakeFiles/edit_cache.dir
+J:/ecen-old/ecen390/cmake-build-debug/lasertag/sound/CMakeFiles/rebuild_cache.dir
+J:/ecen-old/ecen390/cmake-build-debug/lasertag/support/CMakeFiles/support.dir
+J:/ecen-old/ecen390/cmake-build-debug/lasertag/support/CMakeFiles/edit_cache.dir
+J:/ecen-old/ecen390/cmake-build-debug/lasertag/support/CMakeFiles/rebuild_cache.dir

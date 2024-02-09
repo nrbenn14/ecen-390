@@ -1,0 +1,2 @@
+C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\ar.exe qc libsupport.a CMakeFiles/support.dir/bufferTest.c.obj CMakeFiles/support.dir/filterTest.c.obj CMakeFiles/support.dir/histogram.c.obj CMakeFiles/support.dir/queueTest.c.obj CMakeFiles/support.dir/runningModes.c.obj CMakeFiles/support.dir/timer_ps.c.obj
+C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\ranlib.exe libsupport.a

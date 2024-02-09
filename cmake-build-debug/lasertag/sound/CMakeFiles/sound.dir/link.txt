@@ -1,0 +1,2 @@
+C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\ar.exe qc libsound.a CMakeFiles/sound.dir/bcfire01_48k.wav.c.obj CMakeFiles/sound.dir/gameBoyStartup.wav.c.obj CMakeFiles/sound.dir/gameOver48k.wav.c.obj CMakeFiles/sound.dir/gunEmpty48k.wav.c.obj CMakeFiles/sound.dir/ouch48k.wav.c.obj CMakeFiles/sound.dir/pacmanDeath.wav.c.obj CMakeFiles/sound.dir/powerUp48k.wav.c.obj CMakeFiles/sound.dir/screamAndDie48k.wav.c.obj CMakeFiles/sound.dir/sound.c.obj
+C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\ranlib.exe libsound.a

@@ -1,0 +1,1 @@
+  -LJ:/ecen-old/ecen390/platforms/zybo  -LJ:/ecen-old/ecen390/platforms/zybo/xil_arm_toolchain  -LJ:/ecen-old/ecen390/platforms/zybo/lasertag_libs  -lc -lgcc -lzybo -lxil -lc -llasertag sound/libsound.a support/libsupport.a -lgcc -lzybo -lxil -llasertag -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
